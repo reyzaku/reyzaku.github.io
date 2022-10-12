@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9f61c93e.css",
-    "main.js": "/static/js/main.d9376d95.js",
+    "main.js": "/static/js/main.d2d6f05c.js",
     "static/media/SitrenApp.png": "/static/media/SitrenApp.ffab0b9ed35a9c771806.png",
     "static/media/Arema.png": "/static/media/Arema.9493c695995d9b5f5e0e.png",
     "static/media/OnlineCourse.png": "/static/media/OnlineCourse.432114393ee936e9764c.png",
@@ -31,10 +31,10 @@
     "static/media/elementor.webp": "/static/media/elementor.0c882e08580fb4fe3927.webp",
     "index.html": "/index.html",
     "main.9f61c93e.css.map": "/static/css/main.9f61c93e.css.map",
-    "main.d9376d95.js.map": "/static/js/main.d9376d95.js.map"
+    "main.d2d6f05c.js.map": "/static/js/main.d2d6f05c.js.map"
   },
   "entrypoints": [
     "static/css/main.9f61c93e.css",
-    "static/js/main.d9376d95.js"
+    "static/js/main.d2d6f05c.js"
   ]
 }
