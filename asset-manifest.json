@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9f61c93e.css",
-    "main.js": "/static/js/main.d2d6f05c.js",
+    "main.css": "/static/css/main.8dbf444c.css",
+    "main.js": "/static/js/main.d5385006.js",
     "static/media/SitrenApp.png": "/static/media/SitrenApp.ffab0b9ed35a9c771806.png",
     "static/media/Arema.png": "/static/media/Arema.9493c695995d9b5f5e0e.png",
     "static/media/OnlineCourse.png": "/static/media/OnlineCourse.432114393ee936e9764c.png",
@@ -21,6 +21,7 @@
     "static/media/Travel.png": "/static/media/Travel.332c13a998c683b92f15.png",
     "static/media/JobAgency.png": "/static/media/JobAgency.3a07796f550e51c6fcfb.png",
     "static/media/ecommerce3.png": "/static/media/ecommerce3.8ff662a4c52205f99ed6.png",
+    "static/media/diagram.png": "/static/media/diagram.c9d1b16cd4b410229f37.png",
     "static/media/react.png": "/static/media/react.81ed438b18e24116794d.png",
     "static/media/cms3.jpeg": "/static/media/cms3.a488249661061de93edd.jpeg",
     "static/media/me.jpg": "/static/media/me.2ffa8cc14ef118fd1b2c.jpg",
@@ -30,11 +31,11 @@
     "static/media/wordpress.png": "/static/media/wordpress.9fa09f4e51c34ddc63d1.png",
     "static/media/elementor.webp": "/static/media/elementor.0c882e08580fb4fe3927.webp",
     "index.html": "/index.html",
-    "main.9f61c93e.css.map": "/static/css/main.9f61c93e.css.map",
-    "main.d2d6f05c.js.map": "/static/js/main.d2d6f05c.js.map"
+    "main.8dbf444c.css.map": "/static/css/main.8dbf444c.css.map",
+    "main.d5385006.js.map": "/static/js/main.d5385006.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f61c93e.css",
-    "static/js/main.d2d6f05c.js"
+    "static/css/main.8dbf444c.css",
+    "static/js/main.d5385006.js"
   ]
 }
